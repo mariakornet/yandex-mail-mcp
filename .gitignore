@@ -1,8 +1,11 @@
 # конфигурация и секреты
 config.json
 oauth.json
+request.json
+test_config.py
 *.env
 .env*
+
 
 # логи и временное
 *.log

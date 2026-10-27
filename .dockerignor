@@ -1,0 +1,15 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.log
+*.log.*
+.venv/
+venv/
+config.json
+.env
+request.json
+test_config.py
+selftest.py
+live_check.py
+*.md
